@@ -24,9 +24,6 @@ local final "$werther_effect/analysis/processed"
 * figures
 local figures "$werther_effect/analysis/results/figures"
 
-* temporary file
-tempfile tmprry
-tempfile tmprry2
 
 /*********************************************************************
 Event Study

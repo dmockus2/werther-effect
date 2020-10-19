@@ -6,5 +6,5 @@ This is the repository for the code used to generate the results in my working p
 There are three steps to a successful replication:
 
 1. Download entire ````werther_effect```` repository.
-2. Change the path in line 15 of ````werther_effect/analysis/run.do```` to the location where you put the ```werther_effect```` folder. You can skip this if you put the ````werther_effect```` folder in ````C:```` (i.e., ````C:/werther_effect````).
+2. Change the path in line 15 of ````werther_effect/analysis/run.do```` to the location where you put the ````werther_effect```` folder. You can skip this if you put the ````werther_effect```` folder in ````C:```` (i.e., ````C:/werther_effect````).
 3. Extract ````us.1969_2017.19ages.adjusted.txt```` from ````us.1969_2017.19ages.adjusted.exe```` located in ````C:/werther_effect/analysis/data````.

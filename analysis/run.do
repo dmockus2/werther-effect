@@ -29,13 +29,13 @@ set rmsg on
 This do-file download and import the raw data.
 *******************************************************************************/
 
-*do "$werther_effect/analysis/scripts/1_import_raw_data.do"
+do "$werther_effect/analysis/scripts/1_import_raw_data.do"
 
 /*******************************************************************************
 This do-file will prepare the data for analysis.
 *******************************************************************************/
 
-*do "$werther_effect/analysis/scripts/2_prepare_data.do"
+do "$werther_effect/analysis/scripts/2_prepare_data.do"
 
 /*******************************************************************************
 This do-file will run the regressions.
